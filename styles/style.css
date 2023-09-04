@@ -13,7 +13,7 @@
     display: grid;
     grid-template-columns: repeat(3, 1fr);
     align-items:center;
-    padding:79px 50px 96px 15px;
+    padding:79px 50px 92px 15px;
     
 }
 
@@ -182,7 +182,7 @@
     z-index: 1;
     width: 430px;
     height: 450px;
-    padding: 50px 39px 49px 39px; 
+    padding: 49px 39px 49px 39px; 
     border: 1px solid #000000; /* border */
 }
 
