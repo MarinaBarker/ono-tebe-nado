@@ -13,7 +13,7 @@
     display: grid;
     grid-template-columns: repeat(3, 1fr);
     align-items:center;
-    padding:82px 50px 96px 15px;
+    padding:79px 50px 96px 15px;
     
 }
 
@@ -42,7 +42,7 @@
     width: 147px;
     height: 105px;
     flex-shrink: 0;
-    margin-left: 38px;
+    margin-left: 36px;
 }
 
 .header__logo-images {
